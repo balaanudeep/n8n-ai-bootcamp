@@ -26,9 +26,9 @@ This workflow acts as the **tool provider**.
 
 **Type:** MCP Trigger
 
-| Parameter | Value                                  |
-| --------- | -------------------------------------- |
-| Path      | `edd5ffc1-e861-4354-85e7-e95ce9195c93` |
+| Parameter      | Value  |
+| -------------- | ------ |
+| Authentication | `None` |
 
 ---
 
@@ -43,7 +43,8 @@ This workflow acts as the **tool provider**.
 | Operation        | get                                            |
 | Owner            | `tobiaszwingmann-demo`                         |
 | Repository       | `n8n-ai-bootcamp`                              |
-| File Path        | AI-provided path in `day 2/project 9/tickets/` |
+| File Path        | Defined automatically by the model             |
+| File Path Descr. | ```Tickets are stored in the directory `day 2/project 9/tickets/` Example path: "day 2/project 9/tickets/MHGPYF9K.txt"```|
 
 ---
 

@@ -94,6 +94,21 @@ Options:
 - Check the embedded documents in Pinecone
 ---
 
+## Part 2: Document retrieval
+
+**Purpose:** Perform a semantic search on the vector store and fetch relevant documents with metadata.
+
+### 1. Create New Workflow
+- n8n home --> New workflow
+- Name the workflow `P8 - Document Ingestion`
+
+
+
+
+
+
+
+
 ## Part 2: Building a Custom Tool (`Create Ticket` Tool)
 
 You will build a custom n8n workflow which can be added to the AI agent as a tool. In this example, the workflow will generate a new ticket ID and create a new ticket.
